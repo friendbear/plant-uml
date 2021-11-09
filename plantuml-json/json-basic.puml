@@ -1,13 +1,4 @@
-## JSON BASIC
 
-
-Link
-
-<https://plantuml.com/ja/json>
-
----
-
-```plantuml
 @startjson
 {
 "null": null,
@@ -30,5 +21,4 @@ Link
 ]
 }
 @endjson
-```
 
